@@ -9,7 +9,7 @@
 
 # Test with Actions
 
-Create workflows that enable you to use Continuous Integration (CI) for your projects._
+Create workflows that enable you to use Continuous Integration (CI) for your projects.
 
 </header>
 
